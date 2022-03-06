@@ -16,7 +16,8 @@ kolkata = [
         'Country':'India',
         'state':'West Bengal',
         'Population':'22.5 Million',
-        'Capital':'Yes'
+        'Capital':'Yes',
+        'name' : 'vivek'
     }
 ]
 
